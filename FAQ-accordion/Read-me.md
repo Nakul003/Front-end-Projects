@@ -21,7 +21,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://nakul003.github.io/Front-end-Projects/FAQ-accordion/index.html)
 
 
 ## My process
